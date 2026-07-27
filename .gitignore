@@ -1,0 +1,3 @@
+*.aml
+kernel/
+acpi_override.cpio
